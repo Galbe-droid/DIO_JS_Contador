@@ -51,9 +51,9 @@ body{
     margin-top: 25px;
 }
 
-.numero p{
+#currentNumber{
     text-align: center;
-    font-size: 80px;
+    font-size: 70px;
     color: black;
     font-weight: bold;
 }
